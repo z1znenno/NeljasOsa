@@ -1,0 +1,14 @@
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\bin\Debug\net10.0\NeljasOsaPraktilineToo.exe
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\bin\Debug\net10.0\NeljasOsaPraktilineToo.deps.json
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\bin\Debug\net10.0\NeljasOsaPraktilineToo.runtimeconfig.json
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\bin\Debug\net10.0\NeljasOsaPraktilineToo.dll
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\bin\Debug\net10.0\NeljasOsaPraktilineToo.pdb
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.AssemblyInfoInputs.cache
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.AssemblyInfo.cs
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.csproj.CoreCompileInputs.cache
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.dll
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\refint\NeljasOsaPraktilineToo.dll
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.pdb
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\NeljasOsaPraktilineToo.genruntimeconfig.cache
+C:\Users\User\CSProjeckts\NeljasOsaPraktilineToo\obj\Debug\net10.0\ref\NeljasOsaPraktilineToo.dll
