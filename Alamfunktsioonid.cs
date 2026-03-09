@@ -66,10 +66,13 @@ namespace NeljasOsaPraktilineToo
                     System.Console.WriteLine("Kas tahate midagi muuta?\n[y/n] ");
                     char valik = char.Parse(Console.ReadLine());
                     if (valik == 'y')
-                    System.Console.WriteLine("Sisestage mida tahate kustuta: ");
-                    string Ingridient = Console.ReadLine();
-                    IngridientsList.Remove(Ingridient);
-
+                    {
+                        System.Console.WriteLine("Sisestage mida tahate kustuta: ");
+                        string Ingridient = Console.ReadLine();
+                        IngridientsList.Remove(Ingridient);
+                    }
+                    else if (valik == 'n');
+                    else System.Console.WriteLine("Peab olema [y/n]");
                 }
                 
             }
