@@ -70,6 +70,10 @@ namespace NeljasOsaPraktilineToo
                         System.Console.WriteLine("Sisestage mida tahate kustuta: ");
                         string Ingridient = Console.ReadLine();
                         IngridientsList.Remove(Ingridient);
+                        IngridientsList[0] = "Kvaliteetne oliiviõli";
+                        Console.Write("Sisestage uus ingridient");
+                        Ingridient = Console.ReadLine();
+                        IngridietnsList.Add(Ingridient);
                     }
                     else if (valik == 'n');
                     else System.Console.WriteLine("Peab olema [y/n]");
